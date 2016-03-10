@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/kevindragon"
+  #weibo: "#"
+  #rss: "#"
+  #zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -32,10 +32,10 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /favicon.ico
 
 #你的头像url
-avatar:
+avatar: /avatar.png
 #是否开启分享
 share_jia: true
 share_addthis: false
@@ -50,12 +50,7 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  奥巴马的博客: http://localhost:4000/
-  卡卡的美丽传说: http://localhost:4000/
-  本泽马的博客: http://localhost:4000/
-  吉格斯的博客: http://localhost:4000/
-  习大大大不同: http://localhost:4000/
-  托蒂的博客: http://localhost:4000/
+  Clojure: http://clojure.org/
 
 #是否开启“关于我”。
 #不开启——
