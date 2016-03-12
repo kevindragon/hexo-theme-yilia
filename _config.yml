@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "https://github.com/kevindragon"
   #weibo: "#"
-  #rss: "#"
+  rss: "/atom.xml"
   #zhihu: "#"
   #douban: "#"
   #mail: "#"
@@ -31,7 +31,8 @@ animate: true
 open_in_new: false
 
 # Miscellaneous
-google_analytics: ''
+google_analytics: 'UA-57409913-1'
+google_site_verification: 'YjXClDTIQB-ftkNeyVMpdytZeC0twUX9woDpsLsd920'
 favicon: /favicon.ico
 
 #你的头像url
@@ -57,3 +58,5 @@ friends:
 #aboutme: false
 #开启——
 aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
+
+baidu_site_verification: 'esqViVlmC0'
